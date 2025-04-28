@@ -22,4 +22,4 @@ Paginas Dinâmicas: Interface para navegação entre produtos e gerenciamento de
 
 Back-end: Java (Java puro)
 
-Banco de Dados: SQL Database
+Banco de Dados: Oracle SQL Database
